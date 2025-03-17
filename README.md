@@ -1,1 +1,1 @@
-# general_and_detailed_design
+Authors: Dylan Goodwin, Van Hamlin, Jasmine Morgan, Bryce Pittman
